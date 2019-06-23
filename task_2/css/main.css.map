@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAEA,WAAW;EACT,KAAK,EAAE,KAAK;EACZ,MAAM,EAAE,KAAK;EACb,UAAU,EAAE,oCAAoC;EAChD,OAAO,EAAE,IAAI;EACb,cAAc,EAAE,MAAM;EACtB,gBAAM;IACJ,OAAO,EAAE,IAAI;;AAEf,WAAO;EACL,eAAe,EAAE,IAAI;AACvB,UAAM;EACJ,KAAK,EAAE,OAAO;EACd,MAAM,EAAE,OAAO;;ACZnB,IAAI;EACF,WAAW,EAAE,oBAAoB;EACjC,WAAW,EAAE,8BAA8B;EAC3C,KAAK,EAAE,KAAK;EACZ,MAAM,EAAE,MAAM",
+"sources": ["../../../../%D0%A3%D1%87%D0%B5%D0%B1%D0%B0/Bitbucket/task_2/css/main-block.sass","../../../../%D0%A3%D1%87%D0%B5%D0%B1%D0%B0/Bitbucket/task_2/css/main.sass"],
+"names": [],
+"file": "main.css"
+}
